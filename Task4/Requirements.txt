@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision
+diffusers==0.24.0
+transformers==4.36.2
+huggingface_hub==0.19.4
+accelerate==0.25.0
+datasets==2.14.5
+safetensors==0.4.0
+Pillow
